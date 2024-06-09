@@ -75,4 +75,11 @@ php artisan migrate
 ```
 
 Acesse o projeto
-[http://localhost:8989](http://localhost:8989)
+[http://localhost:8989](http://localhost:8989)  
+
+
+Execute fora do Container
+```sh
+npm install
+npm run dev
+```
