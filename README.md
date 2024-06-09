@@ -3,17 +3,14 @@
 ### Sistema Gestor de Tranfers
 Desenvolvido para a empresa Seu Transfer Ltda  
 Docker, Laravel 10, PHP 8.1, Filament v3  
-Projeto em desenvolvimento  
-Versão beta em uso: [https://laratransfer.com.br](https://laratransfer.com.br)  
-
+Versçao em desenvolvimento  
+Versão beta na branch "hostgator-deploy"  
 By claudio@penseon.com.br  
-Projeto feito durante os estudos de Filament  
-Tempo de desenvolvimento: 2 meses não dedicados  
 
 ### Como instalar: Passo a passo
 Clone Repositório
 ```sh
-git clone -b main git@github.com:claudiomecenas/LaraTransfer-Filament-opensource.git LaraTransfer
+git clone -b main git@github.com:claudiomecenas/LaraTransfer-2024.git LaraTransfer
 ```
 ```sh
 cd LaraTransfer
