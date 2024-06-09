@@ -32,8 +32,8 @@ DB_CONNECTION=mysql
 DB_HOST=db
 DB_PORT=3306
 DB_DATABASE=nome_que_desejar_db
-DB_USERNAME=nome_usuario
-DB_PASSWORD=senha_aqui
+DB_USERNAME=root
+DB_PASSWORD=root
 
 CACHE_DRIVER=redis
 QUEUE_CONNECTION=redis
@@ -68,6 +68,11 @@ Gere a key do projeto Laravel
 php artisan key:generate
 ```
 
+
+Execute as Migrations
+```sh
+php artisan migrate
+```
 
 Acesse o projeto
 [http://localhost:8989](http://localhost:8989)
