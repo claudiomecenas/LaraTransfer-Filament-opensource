@@ -47,13 +47,13 @@ REDIS_PORT=6379
 
 Suba os containers do projeto
 ```sh
-docker-compose up -d
+docker compose up -d
 ```
 
 
 Acesse o container app
 ```sh
-docker-compose exec app bash
+docker compose exec app bash
 ```
 
 
