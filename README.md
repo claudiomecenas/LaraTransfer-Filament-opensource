@@ -7,7 +7,7 @@
 Desenvolvido para a empresa Seu Transfer Ltda  
 Docker, Laravel 10, PHP 8.1, Filament v3  
 Versçao em desenvolvimento  
-Versão beta na branch "hostgator-deploy"  
+Versão beta em uso: laratransfer.com.br
 By claudio@penseon.com.br  
 
 ### Como instalar: Passo a passo
